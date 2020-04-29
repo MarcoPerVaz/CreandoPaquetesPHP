@@ -1,0 +1,15 @@
+{
+    "name": "aprendible/first-package",
+    "description": "This is my first package",
+    "authors": [
+        {
+            "name": "Marco Perdomo",
+            "email": "marcooperdomo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["src/helpers.php"]
+    }
+}
+
